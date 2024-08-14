@@ -1,8 +1,7 @@
-# Excel_project
-PWC
+# PWC Training Project: Financial Data Transformation and Analysis
 
 ## 💡 Project Overview
-This project involves cleaning, transforming, and analyzing a detailed transaction listing in Excel. The data includes supplier transactions with various currencies, and the goal is to prepare the data for further financial analysis and reporting.
+This project is part of a training program from PwC, focusing on cleaning, transforming, and analyzing a detailed transaction listing in Excel. The data includes supplier transactions with various currencies, and the goal is to prepare the data for further financial analysis and reporting. Project involves cleaning, transforming, and analyzing a detailed transaction listing in Excel. The data includes supplier transactions with various currencies, and the goal is to prepare the data for further financial analysis and reporting.
 
 ## ☝️ Project Goals
 - Organize and clean the transaction data for ease of analysis.
