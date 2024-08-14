@@ -40,16 +40,16 @@ This project is part of a training program from PwC, focusing on cleaning, trans
 - Add "Supplier Name": Match and insert supplier names using VLOOKUP based on Supplier Numbers.
 <img width="1136" alt="Знімок екрана 2024-08-14 о 13 44 50" src="https://github.com/user-attachments/assets/52b59ef0-7c60-4abb-b796-e02380254a84">
 
-
 ### 3️⃣ Step 3: Data Cleaning
 - Remove Duplicates: Identify and delete any duplicate balances from the listing.
 - Filter FY2023 Data: Use Find & Select to focus on transactions relevant to the current fiscal year.
 - Use Sumifs to show total amount payable by supplier.
-<img width="341" alt="Знімок екрана 2024-08-14 о 13 46 04" src="https://github.com/user-attachments/assets/f9ca0a1b-0e7e-4933-9192-527fa9959d19">
+<img width="702" alt="Знімок екрана 2024-08-14 о 13 49 08" src="https://github.com/user-attachments/assets/06baf70c-32ab-4c82-bffd-7b3af8723bab">
 
 ### 4️⃣ Step 4: Analysis
 - Pivot Tables: Create pivot tables to summarize the total amount payable by each supplier and analyze currency distribution.
-<img width="293" alt="Знімок екрана 2024-08-14 о 13 45 51" src="https://github.com/user-attachments/assets/581fbb8c-19e0-40a6-97c9-62147a4c02f0">
+<img width="1237" alt="Знімок екрана 2024-08-14 о 13 49 20" src="https://github.com/user-attachments/assets/3d631c0e-40e3-42e2-8180-6f257cea0568">
+
 
 ## 🌿 Results and Conclusion
 Through this project, I successfully transformed a detailed transaction listing into a clean, organized dataset ready for financial analysis. The use of Excel's powerful formulas and data tools allowed me to automate the categorization and conversion processes, ensuring accuracy and efficiency. By removing irrelevant data and focusing on FY2023, I ensured that the dataset is up-to-date and relevant for current financial reporting.
